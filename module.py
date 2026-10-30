@@ -22,7 +22,7 @@
 
 
 import datetime
-print(f"la date à l'instant t est {datetime.datetime.now()}")
+print(f"la date à l'instant de mon composant  t est {datetime.datetime.now()}")
 
 
 
